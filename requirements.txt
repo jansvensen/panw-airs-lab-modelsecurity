@@ -1,0 +1,4 @@
+## Prisma AIRS Model Security Demo - Python Dependencies
+
+# Core dependencies
+model-security-client>=0.0.1
