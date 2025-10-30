@@ -73,3 +73,7 @@ lerna-debug.log*
 
 # Output of 'npm pack'
 *.tgz
+
+# Virtual environment
+./venv
+venv
