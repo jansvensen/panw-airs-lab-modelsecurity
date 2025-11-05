@@ -1,4 +1,7 @@
 #!/bin/sh
+
+# source venv/bin/activate 
+
 # Ensures the script exits immediately if any command fails.
 set -e
 
